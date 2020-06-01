@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Angular - Tour Of Heroes</h1>
-</p>
+<h1 align="center">Angular - Tour Of Heroes</h1>
 
 Project created following the official tutorial for beginners at Angular.
 

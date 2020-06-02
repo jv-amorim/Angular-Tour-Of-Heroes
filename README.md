@@ -22,7 +22,7 @@
 
 ## Tour Of Heroes
 
-Project created following the (official tutorial)[https://angular.io/tutorial] for beginners at Angular.
+Project created following the [official tutorial](https://angular.io/tutorial) for beginners at Angular Docs.
 
 ## Development Server
 

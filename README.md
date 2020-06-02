@@ -22,10 +22,10 @@
 <br>
 
 <p align="center">
-  <img alt="Dashboard" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/readme-img/01.png">
-  <img alt="Search Component" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/readme-img/02.png">
-  <img alt="Heroes Listing" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/readme-img/03.png">
-  <img alt="Hero Details" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/readme-img/04.png">
+  <img alt="Dashboard" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/01.png">
+  <img alt="Search Component" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/02.png">
+  <img alt="Heroes Listing" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/03.png">
+  <img alt="Hero Details" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/04.png">
 </p>
 
 ## Tour Of Heroes

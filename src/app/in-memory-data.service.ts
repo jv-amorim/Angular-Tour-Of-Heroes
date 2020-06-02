@@ -9,16 +9,16 @@ import { Hero } from './hero';
 export class InMemoryDataService implements InMemoryDbService {
   createDb() {
     const heroes = [
-      { id: 11, name: 'Dr Nice' },
-      { id: 12, name: 'Narco' },
-      { id: 13, name: 'Bombasto' },
-      { id: 14, name: 'Celeritas' },
-      { id: 15, name: 'Magneta' },
-      { id: 16, name: 'RubberMan' },
-      { id: 17, name: 'Dynama' },
-      { id: 18, name: 'Dr IQ' },
-      { id: 19, name: 'Magma' },
-      { id: 20, name: 'Tornado' }
+      { id: 10, name: 'Guts' },
+      { id: 11, name: 'Puck' },
+      { id: 12, name: 'Skull Knight' },
+      { id: 13, name: 'Judeau' },
+      { id: 14, name: 'Casca' },
+      { id: 15, name: 'Solid Snake' },
+      { id: 16, name: 'Raiden' },
+      { id: 17, name: 'Solaire of Astora' },
+      { id: 18, name: 'Chosen Undead' },
+      { id: 19, name: 'Artorias' },
     ];
     return {heroes};
   }

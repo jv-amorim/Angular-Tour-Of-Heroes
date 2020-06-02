@@ -60,6 +60,20 @@ export class HeroService {
     );
   }
 
+  searchHeroes(term: string): Observable<Hero[]> {
+    if (!term.trim())
+      return of([]);
+
+    return this.http.get<Hero[]>(`${this.heroesUrl}/?name=${term}`).pipe(
+      tap(x => 
+        x.length ? 
+        this.log(`found heroes matching "${term}"`) :
+        this.log(`no heroes matching "${term}"`)
+      ),
+      catchError(this.handleError<Hero[]>('searchHeroes', []))
+    );
+  }
+
   private log(message: string) {
     this.messageService.add(`HeroService: ${message}.`)
   }
@@ -75,7 +89,7 @@ export class HeroService {
       // TODO: Send the error to remote logging infrastructure.
       console.error(error); // Log to console instead.
 
-       // TODO: Better job of transforming error for user consumption.
+      // TODO: Better job of transforming error for user consumption.
       this.log(`${operation} failed: ${error.message}`);
 
       // Let the app keep running by returning an empty result.

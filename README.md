@@ -1,4 +1,4 @@
-<h1 align="center">Angular - Tour Of Heroes</h1>
+<h1 align="center">Tour Of Heroes</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JV-Amorim/Angular-Tour-Of-Heroes">
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tour-of-heroes">Tour Of Heroes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#development-server">Development Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#build">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
-## Project
+## Tour Of Heroes
 
-Project created following the official tutorial for beginners at Angular.
+Project created following the (official tutorial)[https://angular.io/tutorial] for beginners at Angular.
 
 ## Development Server
 

@@ -1,28 +1,36 @@
 <h1 align="center">Angular - Tour Of Heroes</h1>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JV-Amorim/Angular-Tour-Of-Heroes">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JV-Amorim/Angular-Tour-Of-Heroes">
+  
+  <a href="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JV-Amorim/Angular-Tour-Of-Heroes">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+<p align="center">
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#development-server">Development Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#build">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
+
+## Project
+
 Project created following the official tutorial for beginners at Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
-
-## Development server
+## Development Server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## How to Contribute
 

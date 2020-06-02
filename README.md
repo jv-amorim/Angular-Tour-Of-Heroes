@@ -19,13 +19,21 @@
   <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 
-<br>
+<br/>
 
 <p align="center">
-  <img alt="Dashboard" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/01.png">
-  <img alt="Search Component" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/02.png">
-  <img alt="Heroes Listing" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/03.png">
-  <img alt="Hero Details" src="https://github.com/JV-Amorim/Angular-Tour-Of-Heroes/tree/master/readme-img/04.png">
+  <kbd>
+    <img alt="Dashboard" src="readme-img/01.png">
+  </kbd>
+  <kbd>
+    <img alt="Search Component" src="readme-img/02.png">
+  </kbd>
+  <kbd>
+    <img alt="Heroes Listing" src="readme-img/03.png">
+  </kbd>
+  <kbd>
+    <img alt="Hero Details" src="readme-img/04.png">
+  </kbd>
 </p>
 
 ## Tour Of Heroes
